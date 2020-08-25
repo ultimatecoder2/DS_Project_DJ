@@ -1,0 +1,135 @@
+/*
+COLORS: 
+main navbar color: #007bff
+*/
+
+*{
+    margin:0;
+}
+.NewSection{
+    padding:2rem;
+}
+.NewSection .SectionHeading h2{
+text-align: center;
+font-size: 2.8rem;
+margin-bottom: 3rem;
+}
+.SectionContent{
+    margin:3rem auto; 
+}
+.horizontalHR{
+    background-color: #000;
+    margin-bottom: 1.5rem;
+}
+
+
+
+/*-----------------------------------------------------------------*/
+    /*----------ORGANIZATIONS LABEL SECTION--------------------*/
+.OrganizationDesigning .HeaderRow{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding:10px;
+    padding-bottom: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.OrganizationDesigning .HeaderRow h5{
+    display: block;
+    font-size: 1rem;
+}
+.OrganizationImage,.OrganizationImagePec
+{
+    width:70px;
+    display: inline-block;
+    margin:10px;
+    margin-top: 0;
+    height: 80px;
+}
+.OrganizationImagePec{
+    width:120px;
+    margin-bottom: 10px;
+}
+
+.OrganizationTitle{
+    display: inline-block;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size:1.4 rem;
+    font-weight: bold;
+}
+/*-----------------------------------------------------------------*/
+/*-----------------------------------------------------------------*/
+        /*--------------NAVBAR------------------------*/
+.NavLinks{
+    margin: 0 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color:#fff;
+    opacity: 1 !important;
+}
+
+.NavLinks:hover{
+    background-color:#fff;
+    color:#007bff !important;
+}
+.DropdownNavLink:hover{
+    background-color:#0059ff;
+}
+/*-----------------------------------------------------------------*/
+/*-----------------------------------------------------------------*/
+        /*--------------Academicians------------------------*/
+.FilterForm,.IndividualPerson{
+    padding: 1.4rem;
+    /**/
+    background-color: rgb(220, 220, 220);
+    margin:2.5rem 5px;
+    border-radius: 1rem;
+}
+.FilterForm{
+    background-color: rgb(126, 255, 255);
+}
+
+.FilterFormTitle h4{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.IndividualPersonTitle{
+    margin-top: 5px;
+}
+
+.IndividualPersonButtonClass{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.IndividualPersonButton{
+    display: block;
+    position: relative;
+    top:50%;
+}
+
+/*-----------------------------------------------------------------*/
+/*-----------------------------------------------------------------*/
+        /*--------------Footer------------------------*/
+
+.footerSection
+{
+    background-color: rgb(49, 49, 49);
+    color:#bbb;
+    padding:2rem;   
+}
+
+.footerColumn{
+    padding:8px auto;
+    margin-bottom:1rem; 
+}
+.footerHeading{
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+.footerSection p{
+    text-align: center;
+    margin-top: 10px;
+}
