@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DS_Project_DJ/static/css/main.cf0bde5d.chunk.css",
+    "main.js": "/DS_Project_DJ/static/js/main.41566a6b.chunk.js",
+    "main.js.map": "/DS_Project_DJ/static/js/main.41566a6b.chunk.js.map",
+    "runtime-main.js": "/DS_Project_DJ/static/js/runtime-main.e61e88a6.js",
+    "runtime-main.js.map": "/DS_Project_DJ/static/js/runtime-main.e61e88a6.js.map",
+    "static/css/2.11829350.chunk.css": "/DS_Project_DJ/static/css/2.11829350.chunk.css",
+    "static/js/2.f37bd114.chunk.js": "/DS_Project_DJ/static/js/2.f37bd114.chunk.js",
+    "static/js/2.f37bd114.chunk.js.map": "/DS_Project_DJ/static/js/2.f37bd114.chunk.js.map",
+    "index.html": "/DS_Project_DJ/index.html",
+    "precache-manifest.40989beb5693e8ee6f99539c1bbf3fcd.js": "/DS_Project_DJ/precache-manifest.40989beb5693e8ee6f99539c1bbf3fcd.js",
+    "service-worker.js": "/DS_Project_DJ/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/DS_Project_DJ/static/css/2.11829350.chunk.css.map",
+    "static/css/main.cf0bde5d.chunk.css.map": "/DS_Project_DJ/static/css/main.cf0bde5d.chunk.css.map",
+    "static/js/2.f37bd114.chunk.js.LICENSE.txt": "/DS_Project_DJ/static/js/2.f37bd114.chunk.js.LICENSE.txt",
+    "static/media/Lions.svg": "/DS_Project_DJ/static/media/Lions.cd8dce0c.svg",
+    "static/media/PecNew1.png": "/DS_Project_DJ/static/media/PecNew1.bcdd3a2b.png",
+    "static/media/User2.png": "/DS_Project_DJ/static/media/User2.ae290783.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61e88a6.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f37bd114.chunk.js",
+    "static/css/main.cf0bde5d.chunk.css",
+    "static/js/main.41566a6b.chunk.js"
+  ]
+}
