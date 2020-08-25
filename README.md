@@ -5,6 +5,8 @@ Demo Link: https://ultimatecoder2.github.io/DS_Project_DJ/
 
 Working directory: SampleProject
 
-To run it on local pc
+To run it on local pc use: 
+
 npm i
+
 npm run start
